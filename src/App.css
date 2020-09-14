@@ -1,5 +1,23 @@
-.App {
+h1 {
   text-align: center;
+  color: rgb(5, 77, 98);
+  background-color: cadetblue;
+  margin: 0px 0px 0px 0px;
+}
+
+body {
+  text-align: center;
+  color: rgb(5, 77, 98);
+  background-color: cadetblue;
+  margin: 20px 0px 0px 0px;
+}
+.App {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+  font-size: 50%;
+  margin: 20px 20px 20px 20px;
 }
 
 .App-logo {
@@ -13,7 +31,7 @@
   }
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -26,7 +44,7 @@
 
 .App-link {
   color: #61dafb;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +53,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  background-color: rgb(5, 77, 98);
+  border: none;
+  color: white;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 40px 8px;
+  cursor: pointer;
+  color: white;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+button:hover {
+  transition: ease-in 0.2s;
+  background-color: rgb(8, 128, 128);
+}
+
+footer {
+  text-align: center;
+  color: rgb(5, 77, 98);
+  font-weight: bold;
+  background-color: cadetblue;
+  margin: 50px 0px 0px 0px;
 }
