@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## ReactRandomColorGenerator
 
-https://github.com/MArionRenee/ReactRandomColorGenerator.git
+https://github.com/MArionRenee/reactrandomcolor.git
 
 ## Available Scripts
 
